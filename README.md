@@ -1,0 +1,1 @@
+i made this code where the program asks you for a number and once you insert the number, it will start from one to that random number you choose and times it three times. so 1 would be 1, 2 would be 8, 3 would be 27 and so on.
